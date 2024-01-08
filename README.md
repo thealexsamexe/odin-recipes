@@ -1,1 +1,1 @@
-# odin-recipes
+This project is termed as "Recipes", by The Odin Project and reflects upon the knowledge of HTML learnt from The Odin Project. 
